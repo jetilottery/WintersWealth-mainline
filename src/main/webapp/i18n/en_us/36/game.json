@@ -1,0 +1,76 @@
+{
+	"version": "",
+	"Paytable": {
+		"RTPvalue": "{@minRTP}%",
+		"RTPrange": "from {@minRTP}% to {@maxRTP}%",
+		"paybackTitle": "Expected Payback",
+		"paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+		"subheading": "Ticket Cost: {ticketCost}",
+		"prizeLevel": "Prize Level",
+		"description": "Description",
+		"prizeValue": "Prize Value",
+		"descriptionText1": "Number Match Win",
+		"descriptionText2": "Bonus Win"
+	},
+	"title": "TEMPLATE",
+	"MenuCommand": {
+		"price": "Price",
+		"stake": "Stake",
+		"howToPlay": "Help",
+		"paytable": "Paytable",
+		"close": "Close",
+		"audio": {
+			"sound": "Sound",
+			"on": "On",
+			"off": "Off"
+		}
+	},
+	"Error": {
+		"errorCodePrefix": "Error: ",
+		"genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+	},
+	"Game": {
+		"footer_balance": "BALANCE",
+		"footer_ticketCost": "TICKET COST",
+		"ticketSelect_ticketCost": "TICKET COST",
+		"ticketCostPrefix": {
+			"BUY": "",
+			"TRY": "TRY "
+		},
+		"footer_win": {
+			"BUY": "WIN",
+			"TRY": "DEMO WIN"
+		},
+		"button_buy": {
+			"BUY": "BUY",
+			"TRY": "TRY"
+		},
+		"button_try": "TRY",
+		"button_continue": "CONTINUE",
+		"button_moveToMoney": "MOVE TO MONEY",
+		"button_autoPlay": "REVEAL ALL",
+		"button_stop": "STOP",
+		"button_playAgain": {
+			"BUY": "PLAY AGAIN",
+			"TRY": "TRY AGAIN"
+		},
+		"button_tryAgain": "TRY AGAIN",
+		"button_ok": "OK",
+		"button_exit": "EXIT",
+		"error_button_exit": "EXIT",
+		"error_title": "ERROR",
+		"message_nonWin": "BETTER LUCK\nNEXT TIME",
+		"message_win": {
+			"BUY": "CONGRATULATIONS!\nYOU HAVE WON",
+			"TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON"
+		},
+		"howToPlay": "HOW TO PLAY",
+		"page1": "Select the Pine Cones to reveal LUCKY NUMBERS.\n\nSelect the Snowflakes to reveal YOUR NUMBERS.\n\nMatch any YOUR NUMBER to any LUCKY NUMBER to win the prize shown for that YOUR NUMBER.\n\nFind a prize value in the Bonus box instantly win the prize shown!",
+		"winUpTo": "WIN UP TO {0}!",
+		"bonus": "BONUS",
+		"bonusNoWin": "NO BONUS WIN",
+		"bonusWin": "BONUS: {0}",
+		"yourNumbers": "YOUR NUMBERS",
+		"luckyNumbers": "LUCKY NUMBERS"
+	}
+}

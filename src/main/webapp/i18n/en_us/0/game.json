@@ -1,0 +1,82 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "description": "Description",
+    "prizeValue": "Prize Value",
+    "descriptionText1": "Number Match Win",
+    "descriptionText2": "Bonus Win"
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error:0",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game.0"
+  },
+  "Game": {
+    "footer_balance": "BALANCE0",
+    "footer_ticketCost": "TICKET COST0",
+    "ticketSelect_ticketCost": "TICKET COST0",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY0 "
+    },
+    "footer_win": {
+      "BUY": "WIN0",
+      "TRY": "DEMO WIN0"
+    },
+
+    "button_buy": {
+      "BUY": "BUY0",
+      "TRY": "TRY0"
+    },
+    "button_try": "TRY0",
+    "button_continue": "CONTINUE0",
+    "button_moveToMoney": "MOVE TO MONEY0",
+    "button_autoPlay": "REVEAL ALL0",
+    "button_stop": "STOP0",
+    "button_playAgain":{
+      "BUY": "PLAY AGAIN0",
+      "TRY": "TRY AGAIN0"
+    },
+    "button_tryAgain": "TRY AGAIN0",
+    "button_ok": "OK0",
+    "button_exit": "EXIT0",
+
+    "error_button_exit": "EXIT0",
+    "error_title": "ERROR0",
+
+    "message_nonWin": "BETTER LUCK\nNEXT TIME0",
+    "message_win": {
+      "BUY": "CONGRATULATIONS!\nYOU HAVE WON0",
+      "TRY": "THANKS FOR PLAYING!\nYOU COULD HAVE WON0"
+    },
+
+    "howToPlay": "HOW TO PLAY0",
+    "page1": "Press each Pine Cone to reveal LUCKY NUMBERS.\n\nPress each Snowflake to reveal YOUR NUMBERS.\n\nMatch any LUCKY NUMBER to any YOUR NUMBER to win a prize. \n\nPress the BONUS button to reveal an instant prize!0",
+
+    "winUpTo": "WIN UP TO {0}!0",
+    "bonus": "BONUS0",
+    "bonusNoWin": "NO BONUS WIN0",
+    "bonusWin": "BONUS: {0}0",
+
+    "yourNumbers": "YOUR NUMBERS0",
+    "luckyNumbers": "LUCKY NUMBERS0"
+  }
+}
